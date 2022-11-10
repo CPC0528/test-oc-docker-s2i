@@ -1,5 +1,5 @@
 # simple dockerfile to test OCP s2i using Dockerfile 
-
+# no modifications
 FROM registry.access.redhat.com/ubi7:latest
 
 # CMD ["/bin/bash", "-c", "sleep infinity"]
